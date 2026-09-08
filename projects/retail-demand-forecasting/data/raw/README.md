@@ -1,0 +1,1 @@
+Place the public retail sales CSV used for this project in this folder. Do not commit sensitive or proprietary customer data. Document the dataset source, license, columns, and download date in the main README.
